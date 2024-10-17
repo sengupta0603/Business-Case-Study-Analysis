@@ -13,27 +13,33 @@ Components of the Analysis Document
 Solution Description:
 
 A detailed overview of the app, including its purpose, functionalities, and how it addresses current market needs.
-Use Cases:
 
+Use Cases:
 Scenarios depicting how different users (e.g., individual customers, fleet managers) interact with the app to meet their fuel needs.
+
 Problem Statement:
 
 Identification of the primary issues in the current fuel purchase process, such as long wait times, limited accessibility, and safety concerns.
+
 Solution Stakeholders:
 
 List of all stakeholders involved, including customers, fuel suppliers, delivery personnel, and regulatory bodies.
 User Stories:
 
 Narratives from the perspective of different users highlighting their needs and how the app fulfills them.
+
 Activity Diagram:
 
 A visual representation of the workflow within the app, from placing an order to delivery completion.
+
 Use Case Diagram:
 
 Diagram illustrating the interactions between users and the app’s features.
+
 Class Diagram:
 
 Structural diagram showing the classes and relationships within the app’s system.
+
 Sequence Diagram:
 
 Diagram depicting the sequence of operations and interactions among the app’s components during key processes.
